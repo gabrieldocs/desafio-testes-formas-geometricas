@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be98f527-e5cd-4ea2-9520-c1a526d328bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/geometrico/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/geometrico/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/site/site.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/app/geometrico/AppTest.java" afterDir="false" />
+    <list default="true" id="be98f527-e5cd-4ea2-9520-c1a526d328bf" name="Changes" comment="feat: adiciona classe Triangle.java ao projeto">
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/geometrico/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -109,6 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683414693481</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: adiciona classe Triangle.java ao projeto">
+      <created>1683678622481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683678622481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: adiciona classe Triangle.java ao projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adiciona classe Triangle.java ao projeto" />
   </component>
 </project>

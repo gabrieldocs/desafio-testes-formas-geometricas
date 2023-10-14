@@ -14,7 +14,7 @@ getSide1(), getSide2(), getSide3()
 Retorna os comprimentos dos lados do triângulo.
 
 getPerimeter()
-Calcula e retorna o perímetro do triângulo, que é a soma dos comprimentos dos três lados.
+Calcula e retorna o perímetro do triângulo, que é a soma dos comprimentos dos três lados do triängulo.
 
 getArea()
 Calcula e retorna a área do triângulo usando a fórmula de Heron.
